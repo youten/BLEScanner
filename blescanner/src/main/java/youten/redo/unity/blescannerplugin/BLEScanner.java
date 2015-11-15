@@ -1,4 +1,4 @@
-package youten.redo.unity.blescanner;
+package youten.redo.unity.blescannerplugin;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
